@@ -1,0 +1,15 @@
+C:\Users\simon\Documents\Git\AdventOfCode2023\day9.2\day9.2\bin\Debug\net8.0\day9.2.exe
+C:\Users\simon\Documents\Git\AdventOfCode2023\day9.2\day9.2\bin\Debug\net8.0\day9.2.deps.json
+C:\Users\simon\Documents\Git\AdventOfCode2023\day9.2\day9.2\bin\Debug\net8.0\day9.2.runtimeconfig.json
+C:\Users\simon\Documents\Git\AdventOfCode2023\day9.2\day9.2\bin\Debug\net8.0\day9.2.dll
+C:\Users\simon\Documents\Git\AdventOfCode2023\day9.2\day9.2\bin\Debug\net8.0\day9.2.pdb
+C:\Users\simon\Documents\Git\AdventOfCode2023\day9.2\day9.2\obj\Debug\net8.0\day9.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Documents\Git\AdventOfCode2023\day9.2\day9.2\obj\Debug\net8.0\day9.2.AssemblyInfoInputs.cache
+C:\Users\simon\Documents\Git\AdventOfCode2023\day9.2\day9.2\obj\Debug\net8.0\day9.2.AssemblyInfo.cs
+C:\Users\simon\Documents\Git\AdventOfCode2023\day9.2\day9.2\obj\Debug\net8.0\day9.2.csproj.CoreCompileInputs.cache
+C:\Users\simon\Documents\Git\AdventOfCode2023\day9.2\day9.2\obj\Debug\net8.0\day9.2.sourcelink.json
+C:\Users\simon\Documents\Git\AdventOfCode2023\day9.2\day9.2\obj\Debug\net8.0\day9.2.dll
+C:\Users\simon\Documents\Git\AdventOfCode2023\day9.2\day9.2\obj\Debug\net8.0\refint\day9.2.dll
+C:\Users\simon\Documents\Git\AdventOfCode2023\day9.2\day9.2\obj\Debug\net8.0\day9.2.pdb
+C:\Users\simon\Documents\Git\AdventOfCode2023\day9.2\day9.2\obj\Debug\net8.0\day9.2.genruntimeconfig.cache
+C:\Users\simon\Documents\Git\AdventOfCode2023\day9.2\day9.2\obj\Debug\net8.0\ref\day9.2.dll

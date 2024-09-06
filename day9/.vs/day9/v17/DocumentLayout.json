@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simon\\Documents\\Git\\AdventOfCode2023\\day9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EAECF6-75F6-4AFF-94E1-A8FDDE569A1D}|day9\\day9.csproj|c:\\users\\simon\\documents\\git\\adventofcode2023\\day9\\day9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EAECF6-75F6-4AFF-94E1-A8FDDE569A1D}|day9\\day9.csproj|solutionrelative:day9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EAECF6-75F6-4AFF-94E1-A8FDDE569A1D}|day9\\day9.csproj|c:\\users\\simon\\documents\\git\\adventofcode2023\\day9\\day9\\testdata.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B1EAECF6-75F6-4AFF-94E1-A8FDDE569A1D}|day9\\day9.csproj|solutionrelative:day9\\testdata.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EAECF6-75F6-4AFF-94E1-A8FDDE569A1D}|day9\\day9.csproj|c:\\users\\simon\\documents\\git\\adventofcode2023\\day9\\day9\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B1EAECF6-75F6-4AFF-94E1-A8FDDE569A1D}|day9\\day9.csproj|solutionrelative:day9\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "data.txt",
+              "DocumentMoniker": "C:\\Users\\simon\\Documents\\Git\\AdventOfCode2023\\day9\\day9\\data.txt",
+              "RelativeDocumentMoniker": "day9\\data.txt",
+              "ToolTip": "C:\\Users\\simon\\Documents\\Git\\AdventOfCode2023\\day9\\day9\\data.txt",
+              "RelativeToolTip": "day9\\data.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-05T12:13:57.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "testdata.txt",
+              "DocumentMoniker": "C:\\Users\\simon\\Documents\\Git\\AdventOfCode2023\\day9\\day9\\testdata.txt",
+              "RelativeDocumentMoniker": "day9\\testdata.txt",
+              "ToolTip": "C:\\Users\\simon\\Documents\\Git\\AdventOfCode2023\\day9\\day9\\testdata.txt",
+              "RelativeToolTip": "day9\\testdata.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-05T12:12:58.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\Documents\\Git\\AdventOfCode2023\\day9\\day9\\Program.cs",
+              "RelativeDocumentMoniker": "day9\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\Documents\\Git\\AdventOfCode2023\\day9\\day9\\Program.cs",
+              "RelativeToolTip": "day9\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:11:09.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
